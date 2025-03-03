@@ -26,3 +26,17 @@ const myFunction = function (){
     console.log("hello");
     
 }
+
+
+
+
+//++++++++++++++++++++++++++++++++++++++
+
+
+// memory
+// Stack (used in case of primitive datatype) return copy
+
+// Heap (user in case of non prinitive) return reference
+
+
+let myName = "vedKandpal";
